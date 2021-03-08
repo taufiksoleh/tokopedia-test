@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style type="text/css">body{padding:16px; margin:0} img{display: inline;max-width: 100% !important ;height:auto !important;} ol,ul{padding-left:15px} ul>li, ol>li{padding-left:0; margin-left:8px; margin-bottom:3px;}</style>
+</head>
+<body>
+
+A sample of how to filter a list with existing json.<br/>
+
+You are asked to improve the page by the following tasks.<br />
+<ul style="list-style-type:disc;">
+    <li>
+        Show list of products in a 2-column grid like illustration below:<br /><br />
+        <img src="sample_image_list_filter.png" /><br /><br />
+        (Products list is from products.json and you may create UI that is different from the illustration) <br /><br />
+    </li>
+    <li>
+        Create filter page.<br/> <br />
+        Create a filter button in the list page. When this button is clicked, Filter Page (or Bottom Sheet) will be shown so user can configure the filter based on: <b>location</b> and <b>price</b>.<br/><br/>
+        Location filter should use <a href="https://material.io/components/chips/">Choice chips</a>, single selection, and only show 3 options: (1) The location that appears most frequent in the list (2) The second most frequent item in the list, and (3) Other.<br/> <br />
+        For example: <br/>
+        Location:<br/>
+        [Jakarta] [Bali] [Other]<br/><br/>
+        This options should not be hardcoded.<br/><br/>
+        Price Filter should be enable user to input min and maximum price (can use <a href="https://material.io/components/sliders/">Slider</a>). Min and max price is based on the product list and should not be hardcoded.<br/>
+        For example:<br/>
+        Min = 15000 (15000 is the minimum price in the list)<br/><br/>
+        In the filter page, there will be a button to submit the filter configuration. If this submit button is clicked, the product list will reflect the change according to the given input.<br/><br/>
+    </li>
+    <li>
+        Don't add new library.
+    </li>
+
+</ul>
+
+</body>
+</html>

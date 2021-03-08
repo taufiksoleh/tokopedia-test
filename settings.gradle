@@ -1,0 +1,7 @@
+include ':app',
+        ':problem:algorithm:climbingstairs',
+        ':problem:algorithm:minimumpathsum',
+        ':problem:algorithm:oilreservoir',
+        ':problem:android:maps',
+        ':problem:android:filter',
+        ':resources'

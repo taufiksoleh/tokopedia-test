@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tokopedia.minimumpathsum" >
+
+    <application>
+    <activity
+        android:label="@string/minimum_path_sum"
+        android:name="com.tokopedia.minimumpathsum.MinimumPathSumActivity" />
+    </application>
+
+</manifest>
+

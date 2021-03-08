@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tokopedia Test Project</string>
+    <string name="algorithm">Algorithm</string>
+    <string name="android_implementation">Android</string>
+    <string name="GOOGLE_MAP_API_KEY">AIzaSyBumCXiDQ6TVUYq0jHDq12hI-JgF11rPao</string>
+</resources>

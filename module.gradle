@@ -1,0 +1,73 @@
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 29
+    defaultConfig {
+        minSdkVersion 21
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
+        }
+    }
+}
+
+androidExtensions {
+    experimental = true
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.recyclerview:recyclerview:1.2.0-alpha01'
+    implementation 'androidx.gridlayout:gridlayout:1.0.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.6.0'
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.10'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.5.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.6.0'
+    implementation("com.squareup.okhttp3:okhttp:3.12.5")
+    implementation("com.squareup.okhttp3:logging-interceptor:3.12.5")
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.google.android.material:material:1.4.0-alpha01'
+    kapt 'com.github.bumptech.glide:compiler:4.8.0'
+    testImplementation 'junit:junit:4.12'
+    testImplementation "io.mockk:mockk:1.9"
+    androidTestImplementation ("org.robolectric:robolectric:4.3.1"){
+        exclude group: 'org.apache.maven', module: 'maven-artifact'
+        exclude group: 'org.apache.maven', module: 'maven-artifact-manager'
+        exclude group: 'org.apache.maven', module: 'maven-model'
+        exclude group: 'org.apache.maven', module: 'maven-plugin-registry'
+        exclude group: 'org.apache.maven', module: 'maven-profile'
+        exclude group: 'org.apache.maven', module: 'maven-project'
+        exclude group: 'org.apache.maven', module: 'maven-settings'
+        exclude group: 'org.apache.maven', module: 'maven-error-diagnostics'
+        exclude group: 'org.apache.maven', module: 'maven-ant-tasks'
+        exclude group: "org.apache.maven.wagon"
+        exclude group: "org.apache.xerces"
+        exclude group: "org.codehaus.classworlds"
+        exclude group: "org.codehaus.plexus"
+        exclude group: "org.cyberneko.html"
+    }
+    testImplementation "androidx.arch.core:core-testing:2.1.0"
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+
+    implementation project(":resources")
+}

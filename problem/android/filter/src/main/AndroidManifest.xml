@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tokopedia.filter">
+
+    <application>
+        <activity
+            android:theme="@style/NoActionBar"
+            android:name=".view.ProductActivity"
+            android:label="@string/filter"/>
+        <activity
+            android:name=".view.FilterCaseActivity"
+            android:label="@string/filter" />
+    </application>
+
+</manifest>
+

@@ -1,0 +1,526 @@
+{
+  "data": {
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy J2 Prime Resmi SEIN Random",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2016/12/21/1360193/1360193_9e79dbbc-dffb-4dd1-8377-a1321cad131c.jpg",
+        "priceInt": 1210000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 60,
+          "name": "Januar_shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Air purifier sharp FP-GM30Y-B +Musquito catcher",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/7/25/23361737/23361737_3c7f1baa-f5e0-43c4-9ff2-3b847e815e5f_718_718",
+        "priceInt": 2299388,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 61,
+          "name": "DD ELECTRONIC",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 3,
+        "name": "BILLIONAIRES PROJECT OUTER - M-1 FLIGHT JACKET",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/5/19/49314225/49314225_cfb1d3b7-c61a-43d9-995c-6c24b2023382_1000_1000",
+        "priceInt": 700000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 62,
+          "name": "Jutawan Project",
+          "city": "Tangerang"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Vivo V17 Pro 8GB/128GB - Pre Order",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/9/21/2573120/2573120_9e0533e5-d1a4-4fad-8c78-f6c87cd52bbb_1280_1280",
+        "priceInt": 5699000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 61,
+          "name": "DD ELECTRONIC",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 5,
+        "name": "VYATTA ULTRAMINI X POWER BANK 10000 MAH - 12 BULAN GARANSI TANPA BATAS",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/9/17/42515971/42515971_c03aa30f-6f54-4f01-a3e6-4ffbac14b12b_1818_1818",
+        "priceInt": 149000,
+        "discountPercentage": 52,
+        "slashedPriceInt": 309900,
+        "shop": {
+          "id": 618,
+          "name": "Serba ada Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Vivo V17 Pro - COPPER Tempered Glass FULL GLUE PREMIUM GLOSSY",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/9/24/52267162/52267162_f8aa3af2-6e2b-4a4d-93ba-5d336851874e_1181_1181",
+        "priceInt": 37500,
+        "discountPercentage": 25,
+        "slashedPriceInt": 50000,
+        "shop": {
+          "id": 618,
+          "name": "Serba ada Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Meja Lipat / Laptop / Lesehan / Belajar anak / Ngaji / Makan / Baca",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/12/5/162127/162127_199b3104-de81-44eb-b7b3-6a0dbe1517cc_531_531.jpg",
+        "priceInt": 50000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 618,
+          "name": "Serba ada Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Set Lengkap Mesin Power Sprayer Alat Cuci AC Motor Mobil Steam",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/7/28/200673498/200673498_6e826fab-5804-418f-a6b3-6d2bc18c441b_2048_2048.jpg",
+        "priceInt": 280000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 167,
+          "name": "eta shop",
+          "city": "Semarang"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Talang AC split - Reflector AC",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/4/10/5187375/5187375_f8e8d68a-9f86-4a1b-9554-11af557a00a8_1080_1080.jpg",
+        "priceInt": 185000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 618,
+          "name": "Serba ada Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Masker 3M Bebas Polusi Untuk Motor",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/2/18/411150161/411150161_c02321f8-d3b1-412f-b862-520b63ea8b68_960_960.jpg",
+        "priceInt": 59000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 69,
+          "name": "the best shop",
+          "city": "Bali"
+        }
+      },
+      {
+        "id": 11,
+        "name": "Masker N95 / Dust Mask N95 B120 Super Safe",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/attachment/2018/10/12/153933499247930/153933499247930_bedd4a97-b26b-4431-9bce-a945ff777690.png",
+        "priceInt": 56000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 70,
+          "name": "Batam Oke Shop",
+          "city": "Batam"
+        }
+      },
+      {
+        "id": 12,
+        "name": "AC Air Screen Cover | Reflektor / Talang / Penahan Hembusan Angin AC",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/8/31/15651309/15651309_91fed2a7-ae0e-4664-8fca-7dd83aaf909c_750_847.jpg",
+        "priceInt": 29000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 618,
+          "name": "Serba ada Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 13,
+        "name": "Bervin Air Protection BAP-11 Penahan Angin AC Talang AC - Putih",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/6/29/878956/878956_27e06f35-cc2a-4c65-9980-b6b5fe0caa3a_1200_1200.jpg",
+        "priceInt": 159900,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 72,
+          "name": "AHA Store Official",
+          "city": "Tangerang"
+        }
+      },
+      {
+        "id": 14,
+        "name": "BILLIONAIRES PROJECT T-SHIRT - PALM PYRAMID",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/5/16/49314225/49314225_fd5bd31b-389e-4b5d-afea-540e16477268_1500_1500",
+        "priceInt": 220000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 62,
+          "name": "Jutawan Project",
+          "city": "Tangerang"
+        }
+      },
+      {
+        "id": 15,
+        "name": "BILLIONAIRES PROJECT OUTER - PALM PYRAMID SWEATSHIRT",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/5/16/49314225/49314225_b0eb9a9c-323c-4cd7-9eed-64b0c45d00ce_1500_1500",
+        "priceInt": 375000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 62,
+          "name": "Jutawan Project",
+          "city": "Tangerang"
+        }
+      },
+      {
+        "id": 16,
+        "name": "water purifier saringan air filter penyaring air kran air SWS",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/attachment/2019/4/24/155606385480982/155606385480982_5ef0d5ea-bd06-42bd-865c-898370689c17.png",
+        "priceInt": 42500,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 75,
+          "name": "Wapu grosir",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 17,
+        "name": "AC Air Screen Cover | Reflektor / Talang / Penahan Hembusan Angin AC",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/7/15/17287609/17287609_b2065c9a-3f29-4618-8543-cbc91ab093c3_2048_2048.png",
+        "priceInt": 200000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 76,
+          "name": "Grandi Project",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 18,
+        "name": "Masker Anti Polusi Filter Udara 3M Masker Mulut Motor Mask 3M 9001V",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/7/22/5422470/5422470_12166fd7-b96a-4789-a77c-a8efa85c5b7c_500_500",
+        "priceInt": 17000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 77,
+          "name": "DompetKu",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 19,
+        "name": "BILLIONAIRES PROJECT T-SHIRT - COMIC ATTACK (WHITE)",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/7/27/49314225/49314225_45118970-a519-45d6-a47a-d215df3f0ce6_2048_2047",
+        "priceInt": 250000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 62,
+          "name": "Jutawan Project",
+          "city": "Tangerang"
+        }
+      },
+      {
+        "id": 20,
+        "name": "penyaring air sws hi tech water purifier",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/2/24/8423188/8423188_8e7f664a-480a-4683-be4d-d0faea4f0c38_680_687.jpg",
+        "priceInt": 38500,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 79,
+          "name": "Kuna shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 21,
+        "name": "Masker N95 Dust Mask N95 Super-Safe Particulate Respirator",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/3/16/255/255_f21576a1-48f1-4a25-93a1-208d1dc6ce30_2048_0.jpg",
+        "priceInt": 59000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 70,
+          "name": "Batam Oke Shop",
+          "city": "Batam"
+        }
+      },
+      {
+        "id": 22,
+        "name": "1 GR (GRAM) LOGAM MULIA/LOGAM MULIA ANTAM/LM/EMAS ANTAM BERSERTIFIKAT",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/7/18/42154285/42154285_0cdeedff-93dd-4de0-8cf9-36022791862a_1080_1080",
+        "priceInt": 787500,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 81,
+          "name": "LoMul Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 23,
+        "name": "kaos polos lengan pendek warna hitam",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/8/29/6702871/6702871_d9c02d56-8365-4891-ac3e-842fea48936a_394_394.jpg",
+        "priceInt": 40000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 98,
+          "name": "Lapak Kaos Jakarta",
+          "city": "Makassar"
+        }
+      },
+      {
+        "id": 24,
+        "name": "SHARP IG-DC2Y-B Car Air Purifier",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/10/10/2073130/2073130_e89e7b91-4886-4eda-bb32-60bca99ad3c7_700_700.jpg",
+        "priceInt": 759000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 83,
+          "name": "We Are Computer",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 25,
+        "name": "Logitech G300S Gaming Mouse",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/3/2/24150650/24150650_b00190e5-a67d-437f-a95c-6b12ce5ecadb_701_701.jpg",
+        "priceInt": 209000,
+        "discountPercentage": 40,
+        "slashedPriceInt": 349000,
+        "shop": {
+          "id": 84,
+          "name": "Logitech G Official",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 26,
+        "name": "VYATTA ULTRAMINI X POWER BANK 10000 MAH - 12 BULAN GARANSI TANPA BATAS",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/9/17/42515971/42515971_c03aa30f-6f54-4f01-a3e6-4ffbac14b12b_1818_1818",
+        "priceInt": 149000,
+        "discountPercentage": 52,
+        "slashedPriceInt": 309900,
+        "shop": {
+          "id": 618,
+          "name": "Serba ada Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 27,
+        "name": "Logitech G300s Optical Gaming Mouse",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/8/2/396036700/396036700_3516ad50-e3cf-4e17-9d19-523ae256b4e5_700_700.jpg",
+        "priceInt": 191000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 86,
+          "name": "Batu Bata Shop",
+          "city": "Lampung"
+        }
+      },
+      {
+        "id": 28,
+        "name": "BILLIONAIRES PROJECT T-SHIRT - COMIC ATTACK (WHITE)",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/7/27/49314225/49314225_45118970-a519-45d6-a47a-d215df3f0ce6_2048_2047",
+        "priceInt": 250000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 62,
+          "name": "Jutawan Project",
+          "city": "Tangerang"
+        }
+      },
+      {
+        "id": 29,
+        "name": "Botol Tempat Minum Lipat Mini Camping Outdoor Freezing Anti Bottle",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/2/17/208340229/208340229_e38d7e31-d856-48cd-8c53-783f24400a2a_729_514.jpg",
+        "priceInt": 9000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 86,
+          "name": "Batu Bata Shop",
+          "city": "Lampung"
+        }
+      },
+      {
+        "id": 30,
+        "name": "Talang AC split - Reflector AC",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/4/10/5187375/5187375_f8e8d68a-9f86-4a1b-9554-11af557a00a8_1080_1080.jpg",
+        "priceInt": 185000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 900,
+          "name": "Lolipop Project",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 31,
+        "name": "AC Air Screen Cover | Reflektor / Talang / Penahan Hembusan Angin AC",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/7/15/17287609/17287609_b2065c9a-3f29-4618-8543-cbc91ab093c3_2048_2048.png",
+        "priceInt": 200000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 900,
+          "name": "Lolipop Project",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 32,
+        "name": "RUGGED ARMOR Samsung J2 J5 J7 prime on5 on7 2016 case casing cover hp",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2017/6/9/842194/842194_a179060c-c236-452e-a44d-8daeb6599865.jpg",
+        "priceInt": 59000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 98,
+          "name": "Lapak_SBBL Jakarta",
+          "city": "Makassar"
+        }
+      },
+      {
+        "id": 33,
+        "name": "Vivo V17 Pro 8GB/128GB - Pre Order",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/9/21/2573120/2573120_9e0533e5-d1a4-4fad-8c78-f6c87cd52bbb_1280_1280",
+        "priceInt": 5699000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 98,
+          "name": "Lapak_SBBL Jakarta",
+          "city": "Makassar"
+        }
+      },
+      {
+        "id": 34,
+        "name": "LOGAM MULIA, LM ANTAM, EMAS BATANGAN KEPINGAN 5 GRAM",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/5/21/5924683/5924683_fb05765b-8f14-4cae-b64b-3f3ca10e8ea2_2048_2048",
+        "priceInt": 3735000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 86,
+          "name": "Batu Bata Shop",
+          "city": "Lampung"
+        }
+      },
+      {
+        "id": 35,
+        "name": "Air purifier sharp FP-F30Y-A/C/H",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/7/21/23361737/23361737_0a07f877-e7d5-408f-9279-21c7d4ab0c6e_716_716",
+        "priceInt": 1399388,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 61,
+          "name": "DD ELECTRONIC",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 36,
+        "name": "Tas SP3 Sepeda Gunung Gowes Touring Sadel Botol Minum Waterproof",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/5/24/22460585/22460585_c46c3af0-6632-41a7-a1a8-9d2ee0bdd305_750_750",
+        "priceInt": 65000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 95,
+          "name": "Milikiti Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 37,
+        "name": "Sleeping Bag Ultra Light Plus Bantal Kepala",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/9/10/2628698/2628698_3bc7b2bb-6f24-45d7-bfae-48081c904fd9_1040_1040",
+        "priceInt": 60000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 97,
+          "name": "Lala Yeye Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 38,
+        "name": "Masker Filter Gas Respirator 3M 3200 N95 Pelindung Debu!",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/4/21/3536917/3536917_99b60e8d-9b44-4bc5-ba74-eca94de04a8b_525_525.jpg",
+        "priceInt": 60000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 97,
+          "name": "Lala Yeye Shop",
+          "city": "Jakarta"
+        }
+      },
+      {
+        "id": 39,
+        "name": "Sleeping Bag Bulu Lembut",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2019/9/1/2628698/2628698_fd3f8ee7-9d97-45d3-adee-12a4a668a8bf_720_720",
+        "priceInt": 80000,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 98,
+          "name": "Lapak_SBBL Jakarta",
+          "city": "Makassar"
+        }
+      },
+      {
+        "id": 40,
+        "name": "Bervin Air Protection BAP-11 Penahan Angin AC Talang AC - Putih",
+        "imageUrl": "https://ecs7.tokopedia.net/img/cache/200-square/product-1/2018/6/29/878956/878956_27e06f35-cc2a-4c65-9980-b6b5fe0caa3a_1200_1200.jpg",
+        "priceInt": 159900,
+        "discountPercentage": 0,
+        "slashedPriceInt": 0,
+        "shop": {
+          "id": 99,
+          "name": "BAP Store Official",
+          "city": "Tangerang"
+        }
+      }
+    ]
+  }
+}

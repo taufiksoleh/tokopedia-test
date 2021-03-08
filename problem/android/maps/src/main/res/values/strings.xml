@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps">Maps</string>
+    <string name="label_country">Nama negara: %s</string>
+    <string name="label_capital">Ibukota: %s</string>
+    <string name="label_popupation">Jumlah penduduk: %s</string>
+    <string name="label_calling_code">Kode telepon: %s</string>
+    <string name="hint_search">Masukkan nama negara</string>
+    <string name="btn_search">Cari</string>
+</resources>

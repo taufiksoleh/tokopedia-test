@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter">Filter</string>
+    <string name="text_price">Rp%s</string>
+    <string name="text_slash_price">Rp%s</string>
+    <string name="text_discount">%s</string>
+    <string name="title_filter">Filter</string>
+    <string name="label_filter_price">Harga</string>
+    <string name="label_filter_city">Kota</string>
+    <string name="btn_filter">Terapkan</string>
+    <string name="text_search">Cari</string>
+    <string name="menu_filter">Filter</string>
+    <string name="btn_reset">Reset</string>
+
+</resources>

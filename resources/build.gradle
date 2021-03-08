@@ -1,0 +1,20 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
+        }
+    }
+    compileSdkVersion 29
+    defaultConfig {
+        minSdkVersion 21
+    }
+}
+
+androidExtensions {
+    experimental = true
+}
